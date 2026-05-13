@@ -4,14 +4,13 @@
 
 <h3>AI Engineer in the Making · Deep Learning · 
 Computer Vision · LLMs</h3>
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?
-style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizaanali-ai)
-[![Email](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?
-style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizaanali0102@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&
-color=blueviolet&style=for-the-badge)](https://github.com/YOURUSERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizaanali-ai)
+[![Email](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizaanali0102@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=faizu0102&color=blueviolet&style=for-the-badge)](https://github.com/faizu0102)
 
+</div>
 </div>
 
 ---
