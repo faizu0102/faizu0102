@@ -1,97 +1,150 @@
-# 🪨 Mineguard — AI Safety System for Mining Workers
+<div align="center">
 
-> Protecting underground mining workers through real-time 
-> hazard detection and intelligent safety alerts.
+<h1>Mohammed Faizaan Ali Khan</h1>
 
-![Status](https://img.shields.io/badge/Status-In_Development-orange)
-![Stack](https://img.shields.io/badge/Stack-HTML%2FCSS%2FJS_→_Python%2FOpenCV-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+<h3>AI Engineer in the Making · Deep Learning · 
+Computer Vision · LLMs</h3>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?
+style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizaanali-ai)
+[![Email](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?
+style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizaanali0102@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&
+color=blueviolet&style=for-the-badge)](https://github.com/YOURUSERNAME)
 
-## 🎯 The Problem
-
-Mining is one of the world's most dangerous industries.
-Workers face:
-- Gas leak exposure with no early warning
-- Structural collapse risks in real time
-- Delayed emergency response due to poor communication
-- Zero AI-powered monitoring in most small mines in India
-
-**Mineguard solves this.**
+</div>
 
 ---
 
-## 💡 Solution
+## 👋 Who I Am
 
-A real-time monitoring and alert system that:
-- [List what your current version does]
-- Detects [specific hazards you're targeting]
-- Alerts workers and supervisors instantly
-- Logs incidents for safety analysis
+BTech CS student at VREC, Nizamabad — specializing in Applied AI.
+I started with HTML/CSS/JS and I'm now moving full-stack into 
+AI engineering: computer vision, LLMs, and real-world AI systems.
 
----
+I don't wait to graduate. I build now, document everything, 
+and ship in public.
 
-## 🗺️ Roadmap
-
-### ✅ Phase 1 — Web Dashboard (Current)
-- [x] Worker status dashboard UI
-- [x] Alert notification interface
-- [x] Incident logging system
-- [ ] Backend API integration
-
-### 🔄 Phase 2 — Computer Vision (Next)
-- [ ] Integrate YOLOv8 for PPE detection
-  (helmet, vest, mask compliance)
-- [ ] Real-time camera feed processing with OpenCV
-- [ ] Danger zone boundary detection
-
-### 🔮 Phase 3 — AI Intelligence (Planned)
-- [ ] Gas level anomaly detection with ML model
-- [ ] Predictive maintenance alerts
-- [ ] Worker behavior analysis
+- 🔨 Currently building → **Mineguard** (AI safety system 
+  for mining workers)
+- 📚 Currently learning → **Python for AI, OpenCV, 
+  Deep Learning fundamentals**
+- 🎯 Next milestone → **Deploy first AI model by [Month Year]**
+- 💼 Looking for → **AI/ML Internship 2025**
+- 📍 Based in → **Nizamabad, India**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Stack (Honest + Growing)
 
-### Current
-| Layer | Technology |
-|-------|-----------|
-| Frontend | HTML5, CSS3, JavaScript |
-| Alerts | Browser Notifications API |
-| Storage | LocalStorage (→ migrating to backend) |
+### Currently Know
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&
+logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&
+logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?
+style=flat&logo=javascript&logoColor=black)
 
-### Planned
-| Layer | Technology |
-|-------|-----------|
-| CV Engine | Python, OpenCV, YOLOv8 |
-| Backend | FastAPI |
-| ML Model | TensorFlow / PyTorch |
-| Deployment | Render + Hugging Face Spaces |
+### Actively Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&
+logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&
+logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?
+style=flat&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?
+style=flat&logo=huggingface&logoColor=black)
 
----
-
-## 🚀 Run Locally
-
-git clone https://github.com/YOURUSERNAME/mineguard
-cd mineguard
-# Open index.html in browser — no setup needed (current version)
-
----
-
-## 📸 Screenshots
-
-[Add screenshots of your dashboard here]
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&
+logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&
+logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&
+logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🧠 Why I Built This
+## 🚀 Projects
 
-[2–3 sentences — personal story, why mining safety 
-matters to you, what you want this to become]
+### 🪨 Mineguard — AI Safety System for Mining Workers
+> Real-time hazard detection system designed to protect 
+> underground mining workers using computer vision
+
+- Detects unsafe conditions and alerts workers in real-time
+- Built with: [your current tech] → Migrating to: 
+  Python + OpenCV + YOLOv8
+- Status: 🔨 **In Active Development**
+- [View Repo](#) | [Live Demo - Coming Soon](#)
 
 ---
 
-## 📄 License
-MIT — feel free to use, modify, and build on this.
+### 🏥 Hospital Appointment Booking System
+> Web application streamlining patient-doctor appointment 
+> scheduling for hospitals
+
+- Clean UI with real-time slot management
+- Built with: HTML, CSS, JavaScript
+- Status: ✅ **Completed**
+- [View Repo](#) | [Live Demo](#)
+
+---
+
+### 🤖 AI Interview Planner *(Coming Soon)*
+> AI-powered tool that helps candidates prepare for 
+> technical interviews with personalized question sets
+
+- Stack: Python + LangChain + Streamlit (planned)
+- Status: 📋 **Planning Phase**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?
+username=YOURUSERNAME&show_icons=true&theme=tokyonight&
+hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/
+top-langs/?username=YOURUSERNAME&layout=compact&
+theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📈 My AI Learning Roadmap
+
+\`\`\`
+Phase 1 — Foundation (NOW)     [████████░░] 80%
+  ✅ HTML/CSS/JS
+  ✅ Git & GitHub  
+  🔄 Python basics
+  🔄 NumPy & Pandas
+
+Phase 2 — AI Core (Month 1-2)  [██░░░░░░░░] 20%
+  ⬜ OpenCV + Computer Vision
+  ⬜ Scikit-learn + ML basics
+  ⬜ First trained model deployed
+
+Phase 3 — Deep Learning        [░░░░░░░░░░] 0%
+  ⬜ PyTorch / TensorFlow
+  ⬜ YOLOv8 for Mineguard
+  ⬜ HuggingFace Transformers
+
+Phase 4 — LLM Applications     [░░░░░░░░░░] 0%
+  ⬜ LangChain + RAG
+  ⬜ Fine-tuning small models
+  ⬜ AI Interview Planner shipped
+\`\`\`
+
+---
+
+<div align="center">
+
+*"Start where you are. Build with what you have. 
+Document everything."*
+
+</div>
